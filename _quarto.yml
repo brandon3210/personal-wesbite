@@ -3,8 +3,8 @@ project:
   resources: 
     - resume.pdf
     - project1.pdf
-    - project2.pdf
     - slides.pdf
+    - editedproj2.pdf
 
 website:
   title: "Personal Website"
