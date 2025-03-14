@@ -12,7 +12,7 @@ Here are the slides as well:  [Slides](slides.pdf)
 
 ## Project 2
 This is a project that took 23-24 NBA season data and built a model to help predict future wins. It was done by creating new variables to represent the home games and by weighing other variables to better fit the models. Five models were tested and trained to see which worked best, and Quadratic Discriminant Analysis (QDA) was the best suited for the data.  
-Please read:  [Project](editedproj2.pdf)
+Please read: [NBA Project](editedproj2.pdf)
 
 ## Github
 Here is a link to my [personal github](https://github.com/brandon3210)
