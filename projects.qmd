@@ -6,7 +6,7 @@ toc: false
 Throughout my academic career, I have had the pleasure of managing and undergoing many intensive projects. Below are just a few of my accomplishments.
 
 ## Project 1
-This is a project that analyzes drone strikes and how detrimental they are to civilian casualties. This was done with a team and we constructed geospatial heatmaps alongside a linear regression model to better understand how variables such as preisdent and geographic location can impact casualties.  
+This is a project that analyzes drone strikes and how detrimental they are to civilian casualties. This was done with a team and we constructed geospatial heatmaps alongside a linear regression model to better understand how variables such as president and geographic location can impact casualties.  
 Please read:  [Project](project1.pdf)  
 Here are the slides as well:  [Slides](slides.pdf)
 
