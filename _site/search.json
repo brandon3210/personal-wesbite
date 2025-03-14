@@ -1,16 +1,86 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "personal-website",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Experience",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nTest text!"
+    "text": "Throughout my academic career, I have had the pleasure of managing and undergoing many intensive projects. Below are just a few of my accomplishments."
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Experience",
+    "section": "Project 1",
+    "text": "Project 1\nThis is a project that analyzes drone strikes and how detrimental they are to civilian casualties. This was done with a team and we constructed geospatial heatmaps alongside a linear regression model to better understand how variables such as preisdent and geographic location can impact casualties.\nPlease read: Project\nHere are the slides as well: Slides"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Experience",
+    "section": "Project 2",
+    "text": "Project 2\nThis is a project that took 23-24 NBA season data and built a model to help predict future wins. It was done by creating new variables to represent the home games and by weighing other variables to better fit the models. Five models were tested and trained to see which worked best, and Quadratic Discriminant Analysis (QDA) was the best suited for the data.\nPlease read: Project"
+  },
+  {
+    "objectID": "projects.html#github",
+    "href": "projects.html#github",
+    "title": "Experience",
+    "section": "Github",
+    "text": "Github\nHere is a link to my personal github"
+  },
+  {
+    "objectID": "projects.html#daily-bruin",
+    "href": "projects.html#daily-bruin",
+    "title": "Experience",
+    "section": "Daily Bruin",
+    "text": "Daily Bruin\nAlongside my statistical and analytical abilities, I also work as a long-time staff member of the Daily Bruin outreach team, where I conduct surveys, workshops, and presentations. I also help with recruitment, internal and external matters, and social media. It has given me a well-rounded skill set with time management, people management, and overall communication skills."
+  },
+  {
+    "objectID": "projects.html#personal-selling",
+    "href": "projects.html#personal-selling",
+    "title": "Experience",
+    "section": "Personal Selling",
+    "text": "Personal Selling\nI also have experience managing my own storefront and selling my own products. I handle listing, selling, customer service, product management, shipping, and handling all by myself in order to make this a fruitful and thriving side job. It has taught me a lot about how to deal with customers and managing my own inventory."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hello, my name is Brandon Erickson! I am currently a third year student at UCLA, set to graduate this summer. I have taken classes in extensive R coding/simulation, advanced statistics, sampling, statistical modeling, and other topics of that sort. I also have great experience in writing, outreach, communication, and public relations."
+  },
+  {
+    "objectID": "about.html#introduction",
+    "href": "about.html#introduction",
+    "title": "About",
+    "section": "",
+    "text": "Hello, my name is Brandon Erickson! I am currently a third year student at UCLA, set to graduate this summer. I have taken classes in extensive R coding/simulation, advanced statistics, sampling, statistical modeling, and other topics of that sort. I also have great experience in writing, outreach, communication, and public relations."
+  },
+  {
+    "objectID": "about.html#passions",
+    "href": "about.html#passions",
+    "title": "About",
+    "section": "Passions",
+    "text": "Passions\nA few of my passions include bird watching, reading, hiking, and enjoying the rainy weather. I hope we can connect on a few of these things, but I am always willing to try something new, having experiences is the best part of life. Please take a look around my website!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brandon Erickson",
+    "section": "",
+    "text": "Brandon Erickson is a third year statistics and data science student at the University of California, Los Angeles (UCLA). He is set to graduate this June 2025. When he is not spending his time studying, he enjoys reading and going on hikes."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Brandon Erickson",
+    "section": "Education",
+    "text": "Education\nLos Altos High | #1 Class Rank | Sept 2018 - May 2022 University of California, Los Angeles | Statistics and Data Science (B.S.) | Sept 2022 - June 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Brandon Erickson",
+    "section": "Experience",
+    "text": "Experience\nDaily Bruin | Outreach Staff | Sept 2022 - Present\nPersonal Sales | Management and Selling | January 2023 - March 2024"
   }
 ]

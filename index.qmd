@@ -1,14 +1,28 @@
 ---
-title: "personal-website"
+title: "Brandon Erickson"
+about:
+  template: trestles
+  image: profpic.png
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/brandon3210
+    - text: Resume
+      url: "resume.pdf"
+    
+toc: false
 ---
 
-This is a Quarto website.
+Brandon Erickson is a third year statistics and data science student at the University of California, Los Angeles (UCLA). He is set to graduate this June 2025. When he is not spending his time studying, he enjoys reading and going on hikes.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
+Los Altos High | #1 Class Rank | Sept 2018 - May 2022
+University of California, Los Angeles | Statistics and Data Science (B.S.) | Sept 2022 - June 2025
 
-```{r}
-1 + 1
-```
+## Experience
+Daily Bruin | Outreach Staff | Sept 2022 - Present
+
+Personal Sales | Management and Selling | January 2023 - March 2024
 
 
-Test text!
+

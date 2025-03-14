@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+## Introduction
+Hello, my name is Brandon Erickson! I am currently a third year student at UCLA, set to graduate this summer. I have taken classes in extensive R coding/simulation, advanced statistics, sampling, statistical modeling, and other topics of that sort. I also have great experience in writing, outreach, communication, and public relations.
 
-```{r}
-1 + 1
-```
+## Passions
+A few of my passions include bird watching, reading, hiking, and enjoying the rainy weather. I hope we can connect on a few of these things, but I am always willing to try something new, having experiences is the best part of life. Please take a look around my website!

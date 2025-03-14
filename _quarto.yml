@@ -1,13 +1,19 @@
 project:
   type: website
+  resources: 
+    - resume.pdf
+    - project1.pdf
+    - project2.pdf
+    - slides.pdf
 
 website:
-  title: "personal-website"
+  title: "Personal Website"
   navbar:
     right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
 
 format:
   html:
