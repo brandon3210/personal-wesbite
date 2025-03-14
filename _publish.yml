@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: f54bde81-f56c-422c-a3d3-028bdbaef337
+      url: https://moonlit-starlight-e7366c.netlify.app
